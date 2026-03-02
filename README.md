@@ -1,3 +1,9 @@
+<div align="center">
+  <img width="70%" alt="kazza_github" src="https://github.com/user-attachments/assets/b031646a-a83f-4e62-aa4e-4e6f5a53b394" />
+</div>
+
+<br/>
+
 ¡Hola, soy Kazza! 👋 Ingeniero en informática enfocado en el desarrollo web, aplicaciones de escritorio y herramientas CLI.
 
 ```yaml
